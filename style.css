@@ -674,7 +674,7 @@ footer p span {
         left: 0; 
         width: 100%; 
         height: 100%; 
-        background: url('image/profil.jpg') center/cover; 
+        background: url('profil.jpg') center/cover; 
         filter: brightness(0.25) blur(8px);
         z-index: -1; 
     }
